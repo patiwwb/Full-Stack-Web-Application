@@ -1,5 +1,6 @@
 # Full Stack Web-Application using PHP-SQL-HTML-CSS-JS
 
+Simple design using Bootstrap as a framework
 
   SignIn/SignUp system <br/>
   Forgotten password system<br/>
